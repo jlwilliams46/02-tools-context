@@ -1,6 +1,6 @@
 1. When this code is run in Node, e.g. node index.js, what are the two stages of execution for this file called, and which order do they happen in?
 
-        The Creation Stage happens first. Then the Execution stage happens second.
+        The two stages of execution for this file are called Compilation and Execution. The Compilation Stage happens first. Then the Execution stage happens second.
 
 2. Write an explanation, using as much space as you need, relating to how the first stage of execution for this file operates.
 
